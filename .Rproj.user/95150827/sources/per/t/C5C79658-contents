@@ -1,0 +1,50 @@
+---
+title: "Introduction to Frame in Stata"
+author: "Wei-Chu Chen"
+date: "2022-11-16"
+format: 
+  revealjs:
+    incremental: true
+---
+
+## Frame
+
+**Frame** is a new feature/function introduced in Stata 16.
+
+- Arguably one of the most significant improvement in Stata updates. 
+- Let's talk about the concept of frame... or data frame first. 
+
+
+## What is Data Frame
+
+. . . 
+
+Data frame is terminology referring to a data object used to containing data. It is one of the fundamental elements in R and Python (with pandas) for a long time. 
+
+. . . 
+
+There are variation of data frame. For example, depending on the packages used in R, data frame is called **_data.frame_**, **_tibble_**, or **_data.table_**. In Stata, it is **_frame(s)_**. 
+
+. . . 
+
+Ideally, a data frame can:
+
+- keep variables, values, and other data properties.
+- provide flexible ways to access all or part of stored data. 
+
+
+## Frame in Stata 16+
+
+::: {.callout-tip}
+## Question
+
+What would you do if you need to check some data and do some analyses, but the needed data are stored in two different files?
+:::
+. . . 
+
+The main functionality of frame in Stata is to enable a user to **open and process multiple data sets within a single Stata program window**. 
+
+
+## The limitation
+
+Frame in Stata has limited functionalities, compared to data frame in other tools/programs. 

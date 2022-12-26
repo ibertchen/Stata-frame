@@ -1,0 +1,435 @@
+school_year,school_code,school_name,school_lvl,school_poverty_quartile,sch_avg_prior_math_qrt,sch_avg_prior_ela_qrt
+2017-2018,475,Poplar Middle School,Mid,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,475,Poplar Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,252,Bells Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2014-2015,490,Hickory Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2015-2016,455,Willow Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2016-2017,455,Willow Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2017-2018,460,Spruce Middle School,Mid,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,460,Spruce Middle School,Mid,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,405,Birch Middle School,Mid,Second-highest percentage of FRPL-eligible students,,
+2015-2016,485,Dogwood Middle School,Mid,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2016-2017,485,Dogwood Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,435,Redwood Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,490,Hickory Middle School,Mid,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,407,Apple Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2015-2016,407,Apple Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,407,Apple Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,407,Apple Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,425,Fir Middle School,Mid,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,425,Fir Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,425,Fir Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,425,Fir Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,425,Fir Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,430,Forest Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2015-2016,430,Forest Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,430,Forest Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,430,Forest Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2015-2016,222,John McCarthy Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2015-2016,262,R. Hoare Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,285,Spring Hill Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2016-2017,279,Tarjan Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,460,Spruce Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,264,Swift Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2015-2016,264,Swift Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,210,Grimes Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2014-2015,206,Squaw Valley Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2014-2015,222,John McCarthy Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2015-2016,288,Fircrest Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,315,Feigenbaum Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2015-2016,315,Feigenbaum Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2018-2019,240,Scott Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,244,Backus Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2015-2016,267,Cook Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,244,Backus Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,435,Redwood Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,435,Redwood Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,265,Codd Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2015-2016,265,Codd Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2016-2017,265,Codd Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2017-2018,265,Codd Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,265,Codd Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,430,Forest Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2015-2016,279,Tarjan Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2015-2016,490,Hickory Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,490,Hickory Middle School,Mid,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,241,Tumbleweed Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2015-2016,241,Tumbleweed Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,260,Robert W. Floyd Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,260,Robert W. Floyd Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,470,Cedar Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,227,Dijkstra Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,270,Ritchie Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,455,Willow Middle School,Mid,Second-lowest percentage of FRPL-eligible students,,
+2014-2015,280,John Cocke Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2016-2017,280,John Cocke Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2015-2016,270,Ritchie Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2016-2017,270,Ritchie Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,485,Dogwood Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2017-2018,485,Dogwood Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,485,Dogwood Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,230,Newell Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2016-2017,448,Elderberry Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,420,Buckeye Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2015-2016,307,Willets Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,307,Willets Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2017-2018,307,Willets Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,307,Willets Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,310,Lampson Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,276,Hopcroft Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,312,Hartmanis Stearns Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2015-2016,312,Hartmanis Stearns Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,312,Hartmanis Stearns Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2015-2016,234,Herbert Simon Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2016-2017,206,Squaw Valley Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Lowest average prior year ELA scores
+2018-2019,215,Wilkes Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,315,Feigenbaum Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,315,Feigenbaum Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,315,Feigenbaum Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,275,Karp Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,221,Wilkinson Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2016-2017,221,Wilkinson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2015-2016,460,Spruce Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,258,Sherman Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2015-2016,258,Sherman Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2015-2016,261,Iverson Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Lowest average prior year ELA scores
+2016-2017,261,Iverson Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2018-2019,261,Iverson Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2014-2015,297,St. Helena Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,297,St. Helena Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-highest prior year ELA scores
+2016-2017,297,St. Helena Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,297,St. Helena Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2014-2015,415,Chestnut Middle School,Mid,Second-highest percentage of FRPL-eligible students,,
+2015-2016,415,Chestnut Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,415,Chestnut Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,415,Chestnut Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,237,Rabin Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-highest prior year ELA scores
+2015-2016,321,Blum Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,321,Blum Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,228,Charles W. Bachman Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,228,Charles W. Bachman Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,228,Charles W. Bachman Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,228,Charles W. Bachman Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,228,Charles W. Bachman Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2014-2015,225,Paris Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2016-2017,225,Paris Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2016-2017,285,Spring Hill Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,285,Spring Hill Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2014-2015,418,Maple Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2015-2016,418,Maple Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,240,Scott Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,240,Scott Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,240,Scott Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,240,Scott Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,231,Steve Jobs  Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2015-2016,435,Redwood Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,267,Cook Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,267,Cook Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,276,Hopcroft Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,276,Hopcroft Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,276,Hopcroft Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,276,Hopcroft Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2014-2015,295,Lawrence Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2018-2019,250,Placid Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2016-2017,475,Poplar Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,455,Willow Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2015-2016,260,Robert W. Floyd Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2014-2015,282,Lush Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2015-2016,282,Lush Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,450,Palm Middle School,Mid,Highest percentage of FRPL-eligible students,,
+2015-2016,450,Palm Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,480,Cherry Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2015-2016,480,Cherry Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,480,Cherry Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,480,Cherry Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,480,Cherry Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2015-2016,221,Wilkinson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,413,Magnolia Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,475,Poplar Middle School,Mid,Highest percentage of FRPL-eligible students,,
+2015-2016,475,Poplar Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2017-2018,445,Pine Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,490,Hickory Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,452,Orange Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2016-2017,452,Orange Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,452,Orange Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,452,Orange Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2015-2016,452,Orange Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,440,Witchhazel Middle School,Mid,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,440,Witchhazel Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2015-2016,310,Lampson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,440,Witchhazel Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,203,Ridgeview Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,300,Sutherland Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,203,Ridgeview Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2015-2016,203,Ridgeview Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,203,Ridgeview Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,427,Cottonwood Middle School,Mid,Second-highest percentage of FRPL-eligible students,,
+2015-2016,427,Cottonwood Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,427,Cottonwood Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,427,Cottonwood Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,427,Cottonwood Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,252,Bells Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2017-2018,440,Witchhazel Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,440,Witchhazel Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2015-2016,280,John Cocke Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,460,Spruce Middle School,Mid,Second-highest percentage of FRPL-eligible students,,
+2015-2016,268,Thompson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,300,Sutherland Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2015-2016,285,Spring Hill Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2014-2015,445,Pine Middle School,Mid,Second-highest percentage of FRPL-eligible students,,
+2016-2017,216,Hamming Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2015-2016,300,Sutherland Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2016-2017,222,John McCarthy Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,288,Fircrest Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,288,Fircrest Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,405,Birch Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2015-2016,207,Pellucid Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,207,Pellucid Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,207,Pellucid Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,207,Pellucid Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2016-2017,300,Sutherland Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2015-2016,448,Elderberry Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,448,Elderberry Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,448,Elderberry Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,213,Whitney Elementary School,Elem,,,
+2015-2016,213,Whitney Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2016-2017,213,Whitney Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,213,Whitney Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,231,Steve Jobs  Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,457,Oak Middle School,Mid,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,457,Oak Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,457,Oak Middle School,Mid,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,457,Oak Middle School,Mid,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,305,Fernando J. Corbato Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2015-2016,445,Pine Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2014-2015,207,Pellucid Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2017-2018,216,Hamming Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,216,Hamming Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,413,Magnolia Middle School,Mid,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,413,Magnolia Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2016-2017,413,Magnolia Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,255,Lambert Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2015-2016,255,Lambert Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2018-2019,255,Lambert Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,307,Willets Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2016-2017,418,Maple Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,418,Maple Middle School,Mid,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2018-2019,418,Maple Middle School,Mid,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2015-2016,206,Squaw Valley Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,225,Paris Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,225,Paris Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,492,Anchor Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2018-2019,492,Anchor Middle School,Mid,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,203,Ridgeview Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,262,R. Hoare Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,262,R. Hoare Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2018-2019,262,R. Hoare Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2015-2016,291,Bloomfield Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Highest prior year ELA scores
+2016-2017,291,Bloomfield Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2014-2015,465,Holly Middle School,Mid,Second-highest percentage of FRPL-eligible students,,
+2017-2018,465,Holly Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,222,John McCarthy Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,267,Cook Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,213,Whitney Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,413,Magnolia Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,297,St. Helena Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,249,Cypress Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2015-2016,249,Cypress Elementary School,Elem,Highest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,249,Cypress Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,249,Cypress Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,416,Elm Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,416,Elm Middle School,Mid,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2015-2016,225,Paris Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,227,Dijkstra Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2014-2015,275,Karp Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2015-2016,275,Karp Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,275,Karp Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,258,Sherman Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,279,Tarjan Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,255,Lambert Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,255,Lambert Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,321,Blum Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,237,Rabin Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,210,Grimes Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,210,Grimes Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,234,Herbert Simon Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,457,Oak Middle School,Mid,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2015-2016,237,Rabin Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-highest prior year ELA scores
+2017-2018,237,Rabin Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2018-2019,237,Rabin Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-highest prior year ELA scores
+2015-2016,219,Minsky Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,221,Wilkinson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,221,Wilkinson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,262,R. Hoare Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2018-2019,275,Karp Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2015-2016,252,Bells Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,252,Bells Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,445,Pine Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Lowest average prior year ELA scores
+2017-2018,280,John Cocke Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,280,John Cocke Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,244,Backus Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,445,Pine Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,295,Lawrence Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,317,Reddy Elementary School,Elem,,,
+2016-2017,415,Chestnut Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,448,Elderberry Middle School,Mid,Highest percentage of FRPL-eligible students,,
+2014-2015,288,Fircrest Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2016-2017,288,Fircrest Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,219,Minsky Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2016-2017,219,Minsky Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2018-2019,219,Minsky Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,273,Wirth Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2014-2015,260,Robert W. Floyd Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2014-2015,267,Cook Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2016-2017,312,Hartmanis Stearns Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,435,Redwood Middle School,Mid,Lowest percentage of FRPL-eligible students,,
+2014-2015,231,Steve Jobs  Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2016-2017,231,Steve Jobs  Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,309,Milner Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2018-2019,291,Bloomfield Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2016-2017,450,Palm Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,282,Lush Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,282,Lush Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2018-2019,282,Lush Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,241,Tumbleweed Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,241,Tumbleweed Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,241,Tumbleweed Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2014-2015,416,Elm Middle School,Mid,Highest percentage of FRPL-eligible students,,
+2015-2016,416,Elm Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,236,Grand Junction Elementary School,Elem,,,
+2015-2016,236,Grand Junction Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2016-2017,236,Grand Junction Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2017-2018,236,Grand Junction Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,236,Grand Junction Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2015-2016,465,Holly Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,250,Placid Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,310,Lampson Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2017-2018,310,Lampson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,450,Palm Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,217,Joseph Bunker Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2016-2017,217,Joseph Bunker Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,285,Spring Hill Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2015-2016,214,Perlis Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,214,Perlis Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,230,Newell Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,230,Newell Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2015-2016,324,Pnueli Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2015-2016,229,Knuth Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,229,Knuth Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2018-2019,206,Squaw Valley Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,210,Grimes Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,295,Lawrence Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,450,Palm Middle School,Mid,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,317,Reddy Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2015-2016,317,Reddy Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,317,Reddy Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,317,Reddy Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,206,Squaw Valley Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2016-2017,310,Lampson Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,420,Buckeye Middle School,Mid,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,420,Buckeye Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,261,Iverson Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2018-2019,303,Kahan Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,416,Elm Middle School,Mid,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,250,Placid Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2015-2016,250,Placid Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,215,Wilkes Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,324,Pnueli Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2015-2016,410,Cypress Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2018-2019,407,Apple Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2016-2017,273,Wirth Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2017-2018,273,Wirth Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2014-2015,410,Cypress Middle School,Mid,Second-highest percentage of FRPL-eligible students,,
+2018-2019,222,John McCarthy Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,244,Backus Elementary School,Elem,Highest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2016-2017,268,Thompson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,405,Birch Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,470,Cedar Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2017-2018,470,Cedar Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,260,Robert W. Floyd Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,258,Sherman Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,258,Sherman Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2017-2018,261,Iverson Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,420,Buckeye Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,273,Wirth Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,465,Holly Middle School,Mid,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,465,Holly Middle School,Mid,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2015-2016,217,Joseph Bunker Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,295,Lawrence Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,216,Hamming Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2015-2016,305,Fernando J. Corbato Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2016-2017,305,Fernando J. Corbato Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2018-2019,305,Fernando J. Corbato Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,321,Blum Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2018-2019,321,Blum Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2015-2016,405,Birch Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,252,Bells Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,303,Kahan Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2017-2018,303,Kahan Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2015-2016,244,Backus Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,324,Pnueli Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2017-2018,324,Pnueli Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,324,Pnueli Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,410,Cypress Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,455,Willow Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,270,Ritchie Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2018-2019,270,Ritchie Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2017-2018,219,Minsky Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2015-2016,273,Wirth Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2016-2017,229,Knuth Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,229,Knuth Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,300,Sutherland Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,250,Placid Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Lowest average prior year ELA scores
+2017-2018,410,Cypress Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,410,Cypress Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2018-2019,210,Grimes Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,215,Wilkes Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,234,Herbert Simon Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,279,Tarjan Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,305,Fernando J. Corbato Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,230,Newell Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,420,Buckeye Middle School,Mid,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2014-2015,234,Herbert Simon Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2018-2019,249,Cypress Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2015-2016,204,Sequoia Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,204,Sequoia Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2017-2018,204,Sequoia Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-highest prior year ELA scores
+2018-2019,204,Sequoia Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2015-2016,470,Cedar Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,405,Birch Middle School,Mid,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2016-2017,230,Newell Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2014-2015,215,Wilkes Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2014-2015,470,Cedar Middle School,Mid,Second-highest percentage of FRPL-eligible students,,
+2017-2018,291,Bloomfield Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2015-2016,215,Wilkes Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2015-2016,216,Hamming Elementary School,Elem,Highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2014-2015,303,Kahan Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2015-2016,309,Milner Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,309,Milner Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2016-2017,234,Herbert Simon Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-highest prior year ELA scores
+2016-2017,264,Swift Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2017-2018,264,Swift Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Second-highest prior year ELA scores
+2018-2019,214,Perlis Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2015-2016,295,Lawrence Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2018-2019,264,Swift Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,214,Perlis Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2016-2017,309,Milner Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-lowest prior year ELA scores
+2017-2018,309,Milner Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Second-lowest prior year math scores,Second-lowest prior year ELA scores
+2018-2019,268,Thompson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,268,Thompson Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,279,Tarjan Elementary School,Elem,Highest percentage of FRPL-eligible students,,
+2017-2018,217,Joseph Bunker Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,291,Bloomfield Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,303,Kahan Elementary School,Elem,Second-highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2015-2016,231,Steve Jobs  Elementary School,Elem,Highest percentage of FRPL-eligible students,Lowest average prior year math scores,Lowest average prior year ELA scores
+2014-2015,268,Thompson Elementary School,Elem,Lowest percentage of FRPL-eligible students,,
+2018-2019,312,Hartmanis Stearns Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2014-2015,204,Sequoia Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2018-2019,243,Chowchilla Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,Lowest average prior year math scores,Second-lowest prior year ELA scores
+2014-2015,229,Knuth Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2018-2019,217,Joseph Bunker Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores
+2017-2018,243,Chowchilla Elementary School,Elem,Second-highest percentage of FRPL-eligible students,,
+2014-2015,214,Perlis Elementary School,Elem,Second-lowest percentage of FRPL-eligible students,,
+2015-2016,227,Dijkstra Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Highest prior year ELA scores
+2016-2017,227,Dijkstra Elementary School,Elem,Lowest percentage of FRPL-eligible students,Second-highest prior year math scores,Second-highest prior year ELA scores
+2017-2018,227,Dijkstra Elementary School,Elem,Lowest percentage of FRPL-eligible students,Highest prior year math scores,Highest prior year ELA scores

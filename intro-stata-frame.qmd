@@ -1,0 +1,379 @@
+---
+title: "[Frame(s) in Stata]{style='color:#007F44;'}"
+subtitle: "[Data Server Users Meeting]{style='color:#000078'}"
+date: "2022-11-16"
+format: 
+  revealjs:
+    incremental: true
+    slide-number: true
+    theme: serif
+    css: "custom.css"
+    logo: "C:/Users/chenwe76/OneDrive - Michigan State University/EPIC/resources/logo/EPIC_MarkHiRes.jpg"
+    footer: "Data Server Users Meeting"
+    self-contained: true
+from: markdown+emoji
+---
+
+------------------------------------------------------------------------
+
+::: callout-warning
+## Declaration
+
+I am just a light user of Stata
+:::
+
+## [Frame]{style="color:#007F44;"}
+
+**Frame** is a new feature/function introduced in Stata 16.
+
+-   Arguably one of the most significant improvement in Stata updates.
+-   Let's talk about the concept of frame... or data frame first.
+
+## [What is Data Frame]{style="color:#007F44;"}
+
+-   A data object used to store and present data.
+
+-   It usually contains a [two-dimensional]{.fragment .highlight-red}, [size-mutable]{.fragment .highlight-red}, potentially [heterogeneous]{.fragment .highlight-red} tabular data.
+
+-   There are variations of data frame. For example, depending on the packages used in R, data frame is called `data.frame` (base R), `data.table` (data.table) or `tibble` (tidyverse). In Python, it is `DataFrame` (pandas).
+
+-   Even an Excel `sheet` is a data frame with limited features.
+
+-   In Stata, it is `frame(s)`.
+
+## [What Data Frame does]{style="color:#007F44;"}
+
+Ideally, with a data frame, a user can:
+
+-   keep variables, values, and other data properties
+-   have flexible ways to access all or a part of data
+-   apply function(s) to all or a part of data
+-   communicate data between different data frames
+
+## [Before Stata version 16]{style="color:#007F44;"}
+
+::: callout-warning
+## What will you do
+
+when you need to check some data and do some analyses, but the needed data are stored in two or more different files?
+:::
+
+1.  load the first data set → do something → save & close → load the second data set → do something → ......
+2.  open *N* Stata program windows to load *N* data sets
+3.  merge all data sets together and then torture the data, your computer, and yourself
+4.  above all
+
+## [Frame(s) in Stata 16+]{style="color:#007F44;"}
+
+-   The main functionality of frame in Stata is to enable **loading and processing multiple data sets within a single Stata program window**.
+
+-   Data in different data sets can communication to each other in certain ways.
+
+-   More flexibility of saving data processing and analyzing results.
+
+## [User Interface]{style="color:#007F44;"}
+
+There is a new attribute `Frame: {Name}` in the Data Properties.
+
+::: {layout="[55, 45]"}
+![](screenshots/01_main_window.png){fig-alt="Stata_main_window"}
+
+![](screenshots/02_data-property.png){fig-alt="Stata_data_property"}
+:::
+
+The default frame name is `default`.
+
+## [Frame 101: dir/list, create & rename]{style="color:#007F44;"}
+
+All commands start with `frame` (or `frames`)
+
+::: panel-tabset
+## Stata code
+
+::: columns
+::: {.column width="50%"}
+::: fragment
+``` {.stata code-line-numbers="2,4,7,8"}
+* List all frame(s)
+frame dir 
+* or
+frame list
+
+* these also work 
+frames dir
+frames list
+```
+:::
+:::
+
+::: {.column width="50%"}
+::: fragment
+``` {.stata code-line-numbers="2"}
+* Create a new frame
+frame create new_frame
+```
+:::
+:::
+:::
+
+::: fragment
+</br>
+
+``` {.stata code-line-numbers="2"}
+* Rename a frame
+frame rename old_name new_name
+```
+:::
+
+## Test
+
+``` stata
+frame dir                 // check available frames
+frame create new          // create a new frame "new"
+frame rename default old  // rename default frame to "old"
+frame list                // check available frames again
+```
+
+::: fragment
+![](screenshots/03_basic-01.png)
+:::
+:::
+
+## [Check Working/Current Frame]{style="color:#007F44;"}
+
+-   When multiple frames exist, any command will apply to the [current working frame]{style="color:darkred;"} if **frame prefix** is not used.
+
+-   How to check the current frame?
+
+    -   See the Data Properties window
+    -   Use command `frame` or `pwf` (print working frame) (remember `pwd`?)
+
+::: fragment
+![](screenshots/04_pwf.png)
+:::
+
+## [Switch between Frames]{style="color:#007F44;"}
+
+-   If we want to change from the current frame **old** to the **new** frame, use `frame change new`.
+
+-   or `cwf new` (change working frame) (remember `cd`?)
+
+::: fragment
+::: {layout="[50,50]"}
+![](screenshots/05a_framechange.png)
+
+![](screenshots/05b_cwf.png)
+:::
+:::
+
+## [Delete/Remove Frame]{style="color:#007F44;"}
+
+::: callout-warning
+## One or ALL, there is no some
+
+can't drop a number of frames at a time
+:::
+
+::: columns
+::: column
+::: fragment
+Drop one frame at a time
+
+``` {.stata code-line-numbers="1,3,4"}
+frame dir
+* drop the "new" frame
+frame drop new
+frame dir
+```
+
+![](screenshots/06a_drop.png)
+:::
+:::
+
+::: column
+::: fragment
+Drop ALL frames
+
+``` {.stata code-line-numbers="1,2,4,5|2|4"}
+frame dir
+frame reset //"frames rest" also work
+* or
+clear frames //"celar frame" doesn't 
+frame dir
+```
+
+![](screenshots/06b_drop.png)
+:::
+:::
+:::
+
+## [Work with Frame]{style="color:#007F44;"}
+
+After create a new frame, there are two ways to interact with the frame.
+
+::: {.columns .fragment}
+::: column
+Switch to the desired frame.
+
+``` {.stata code-line-numbers="2,5,8,9"}
+* create a new frame "apple"
+frame create apple
+
+* switch to the new frame
+frame change apple //or cwf apple
+
+* do some regular Stata things
+webuse apple
+summarize 
+```
+:::
+
+::: column
+</br> ![](screenshots/07a_frame_change.png){fig-align="left"}
+:::
+:::
+
+## [Work with Frame]{style="color:#007F44;"}
+
+Use **frame prefix** command: `frame framename:`
+
+``` {.stata code-line-numbers="2,4"}
+* switch back to the default frame
+cwf default
+
+frame apple: oneway weight treatment, sidak
+```
+
+</br>
+
+::: fragment
+Multiple commands with **frame prefix** in **DO file**
+
+``` {.stata code-line-numbers="2,3,4,5,6"}
+* within Do file
+frame apple {                              // use curly bracket, no colon
+  gen new_treatment = treatment -1 
+  gen weight_log10 = log10(weight)
+  graph hbox weight_log10, over(new_treatment)
+}
+```
+:::
+
+## [Frame for Relational Data Sets]{style="color:#007F44;"}
+
+### 1. [Link two (or more) frames]{style="color:#000078;"}
+
+-   If two frames are relational data sets, they can be linked using `frlink` (frame link?) command.
+
+-   Linking two frames is different from merging them together.
+
+-   The two frames have to be in **one-to-one (1:1)** or **many-to-one (m:1)** relation.
+
+-   :no_good: [**one-to-many (1:m)** relation is not allowed in `frlink`]{style="color:darkred;"}
+
+## [Frame for Relational Data Sets]{style="color:#007F44;"}
+
+### 1. [Link two (or more) frames]{style="color:#000078;"}
+
+-   Let frame **one** and **two** have the same variable **key**, and they have a 1:1 relation.
+
+-   When **one** is the current working frame: </br> `frlink 1:1 key, frame(two)`
+
+-   `frlink` creates a new variable **two** in the current working frame as the relation indicator.
+
+-   The indicator variable's name can be manually set: </br> `frlink 1:1 key, frame(two) gen(flag)`
+
+-   [demo]{style="color:grey;"}
+
+## [Frame for Relational Data Sets]{style="color:#007F44;"}
+
+### 2. [Retrieve (merge) variable(s) from the linked frame]{style="color:#000078;"}
+
+-   After linking two frames, variable(s) in the linked frame can be retrieved/merged into the current working frame using `frget` (frame get?) command.
+
+-   Basic: `frget var1 var2, from(two)`
+
+-   Advanced: `frget new1=var1, new2=var2, from(two)`
+
+-   [demo]{style="color:grey;"}
+
+## [Frame for Relational Data Sets]{style="color:#007F44;"}
+
+### 3. [Direct access/use variable in another frame]{style="color:#000078;"}
+
+-   Using `frval` (frame variable?) to access/use a variable in the linked frame **without merging** it into the current working frame.
+
+-   This feature is useful in analyzing multi-level data (e.g., student-school-district)
+
+-   [demo]{style="color:grey;"}
+
+## [Save Results to Antoher Frame]{style="color:#007F44;"}
+
+-   `frame post` lets you store analyzing results to a non-working frame.
+
+-   Basic: `frame post newframe (exp1) (exp2) (exp3)`
+
+-   What happens?
+
+-   the values of (exp1), (exp2), and (exp3) are sent to and stored in **newframe**.
+
+-   :warning: In this case, there must be three variables pre-created in **newframe**
+
+-   [demo]{style="color:grey;"}
+
+## [Now you know how to make use `frame post`......right?]{style="color:#007F44;"}
+
+::: columns
+::: column
+![](screenshots/i-dont-know.png){.fragment}
+:::
+
+::: {.column .fragment}
+</br>
+</br>
+
+[No worries!]{style="color:orange;"}
+
+[Life will find a way.]{style="color:orange;"}
+:::
+:::
+
+## [Save Results to a Nonexistent Frame!!]{style="color:#007F44;"}
+
+-   ~~`frame post` is too complicated and not handy.~~
+
+-   There are always awesome people in the world!
+
+-   [**Elwyn Davies**](https://www.elwyndavies.com/) wrote a function [framesave](https://www.elwyndavies.com/stata-tips/save-command-results-to-new-frame-in-stata/) to make things eaiser.
+
+-   The easy way: </br> `framesave newframe: (do some Stata things)`
+
+-   No `frame create` and `frame post` are required! :tada:
+
+-   [demo]{style="color:grey;"}
+
+## [Takeaway]{style="color:#007F44;"}
+
+Frame(s) in Stata:
+
+[(personal opinion)]{.fragment style="color:grey;"}
+
+-   The functionality of processing multiple data sets simultaneously.
+
+-   An alternative way to link/merge different data sets.
+
+-   A convenient way to store and manage analyzing results.
+
+-   Others (search online to find more use cases.)
+
+## [Limitations]{style="color:#007F44;"}
+
+[(personal opinion)]{style="color:grey;"}
+
+-   Inconvenient in checking frames and their data.
+
+-   Commands are relatively complicated, tedious, and sometimes inconsistent.
+
+------------------------------------------------------------------------
+
+![](screenshots/end.png){.fragment width="60%" height="60%"}
